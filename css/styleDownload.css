@@ -1,0 +1,21 @@
+
+body{
+
+
+
+}
+
+
+
+table{
+	position:relative;
+	top:100px;
+	color:#ffffff;
+	text-align:center;
+}
+#totlaSize{
+	position:absolute;
+	right:308px;
+	top:65px;
+
+}

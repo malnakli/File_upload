@@ -1,0 +1,108 @@
+#idRegistrationForm{
+	position:relative;
+	top:100px;
+	color:#ffffff;
+
+
+}
+/*moving the input filed to look nice*/
+/*----------------------------------user name-------------------------------------*/
+#id-formInput0 {
+	position:relative;
+	left:47px;
+
+}
+#minLength{
+	position:relative;
+	left:47px;
+	font-size:10pt;
+	
+}
+/*----------------------------------first name-------------------------------------*/
+
+#id-formInput1{
+	position:relative;
+	left:60px;
+
+}
+#minLength1{
+	position:relative;
+	left:58px;
+	font-size:10pt;
+	
+}
+/*---------------------------------last name---------------------------------------*/
+
+#id-formInput2{
+	position:relative;
+	left:62px;
+
+}
+#minLength2{
+	position:relative;
+	left:59px;
+	font-size:10pt;
+	
+}
+/*-----------------------------------email----------------------------------------*/
+#id-formInput3{
+	position:relative;
+	left:78px;
+
+}
+#format{
+	position:relative;
+	left:78px;
+	font-size:10pt;
+
+}
+/*----------------------------------password-------------------------------------*/
+
+#id-formInput4{
+	position:relative;
+	left:58px;
+
+}
+#check1{
+	position:relative;
+	left:58px;
+	font-size:10pt;
+}
+/*--------------------------------re-type-password-------------------------------------*/
+
+#id-formInput5{
+	position:relative;
+	left:10px;
+
+}
+#check2{
+	position:relative;
+	left:10px;
+	font-size:10pt;
+}
+/*----------------------------------Country------------------------------------*/
+
+#id-formInput6{
+	position:relative;
+	left:63px;
+
+}
+#check3{
+	position:relative;
+	left:62px;
+	font-size:10pt;
+	
+}
+/*--------------------------------birth day---------------------------------------*/
+
+#id-formInput7{
+	position:relative;
+	left:42px;
+
+}
+#check4{
+	position:relative;
+	left:42px;
+	font-size:10pt;
+}
+/*--------------------------------------------------------------------------------*/
